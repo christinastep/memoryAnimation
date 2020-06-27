@@ -121,7 +121,7 @@ gulp.task('productionJs', gulp.series(
   'html',
   //'cleanJsFolder',
   'compileJs',
-  'minifyJs'
+  //'minifyJs'
   
 ));
 /** End OptimizeJs */
